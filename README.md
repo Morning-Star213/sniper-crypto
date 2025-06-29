@@ -130,7 +130,7 @@ Video tutorial: https://youtu.be/kNteZQmck4g
 2. Download and install Git from <a href="https://git-scm.com/downloads">here</a>.
 3. Open a command prompt / terminal and clone the repository.
 	```sh
-	git clone https://github.com/zookyy/bsc-sniper.git && cd bsc-sniper
+	git clone ...
 	```
 4. In the same command prompt, install the NPM packages.
 	```sh
@@ -369,15 +369,3 @@ To launch the bot use the command ```node index.js```
   </tr>
 </table>
 
-## Go Premium
-
-<p>
-	You can see all of the features <a href="#features">here</a>.<br>
-	If you wish to purchase the premium version of the bot, please contact me using the contact methods listed below.
-</p>
-
-### Contact
-<ul>
-	<li>Discord: Zooky.#1003</li>
-	<li>Telegram: @zookyy</li>
-</ul>
